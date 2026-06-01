@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6fbff"/><stop offset="1" stop-color="#dff2fb"/></linearGradient></defs>
+<rect width="900" height="620" rx="36" fill="url(#g)"/>
+<rect x="70" y="70" width="760" height="480" rx="36" fill="#fff" opacity=".86" stroke="#c5dcec"/>
+<circle cx="450" cy="245" r="100" fill="#eaf6ff" stroke="#005f9f" stroke-width="8"/>
+<path d="M385 258c40-70 130-54 145 10" fill="none" stroke="#005f9f" stroke-width="18" stroke-linecap="round"/>
+<circle cx="450" cy="230" r="24" fill="#005f9f"/>
+<text x="450" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="800" fill="#082748">Choose Guide</text>
+<text x="450" y="458" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#526b85">Room size, CADR, filter and noise</text>
+</svg>
