@@ -1,0 +1,54 @@
+[
+  {
+    "id": "luna-mini",
+    "name": "LUNA Mini",
+    "type": "AERLUNE concept model",
+    "page": "product-luna-mini.html",
+    "image": "assets/images/product-luna-mini.png",
+    "benchmark_reference": "Blueair Blue Pure 511i Max",
+    "benchmark_cadr": "152 CFM / 258 m³/h",
+    "benchmark_noise": "19–48 dB",
+    "benchmark_room": "22 m² recommended room size (also widely marketed with larger one-pass coverage figures)",
+    "source_url": "https://www.idealhome.co.uk/buying-guide-reviews/best-air-purifiers-242211",
+    "final_aerlune_specs": "Pending factory lab report"
+  },
+  {
+    "id": "s1",
+    "name": "AERLUNE S1",
+    "type": "AERLUNE concept model",
+    "page": "product-s1.html",
+    "image": "assets/images/product-s1.png",
+    "benchmark_reference": "Levoit Core 300S Smart True HEPA Air Purifier",
+    "benchmark_cadr": "141 CFM CADR rating",
+    "benchmark_noise": "Peak tested decibel reported at 58 dB in pet-air-purifier testing; another small-air-purifier test reports 48 dB on high",
+    "benchmark_room": "219 sq ft coverage area",
+    "source_url": "https://www.thesprucepets.com/best-air-purifiers-for-pets-4175935",
+    "final_aerlune_specs": "Pending factory lab report"
+  },
+  {
+    "id": "pro-600",
+    "name": "AERLUNE Pro 600",
+    "type": "AERLUNE concept model",
+    "page": "product-pro-600.html",
+    "image": "assets/images/product-pro-600.png",
+    "benchmark_reference": "Coway Airmega Mighty2",
+    "benchmark_cadr": "Smoke 240 CFM / Dust 242 CFM / Pollen 249 CFM",
+    "benchmark_noise": "35 dB sleep mode; about 65–70 dB turbo in WIRED testing",
+    "benchmark_room": "Up to 1,800 sq ft in one hour at 1 ACH; 900 sq ft in 30 minutes at 2 ACH",
+    "source_url": "https://www.wired.com/review/coway-airmega-mighty2",
+    "final_aerlune_specs": "Pending factory lab report"
+  },
+  {
+    "id": "h2",
+    "name": "AERLUNE H2",
+    "type": "AERLUNE concept model",
+    "page": "product-h2.html",
+    "image": "assets/images/product-h2.png",
+    "benchmark_reference": "Dyson Purifier Humidify+Cool Formaldehyde PH04",
+    "benchmark_cadr": "Dyson models often do not use CADR as the primary rating in buyer guides; CADR not available in selected source",
+    "benchmark_noise": "Highest speed measured at 57.3 dB average in SELF review of Pure Humidify + Cool",
+    "benchmark_room": "41 m³ coverage cited in humidifier guide",
+    "source_url": "https://www.architecturaldigest.com/story/the-best-humidifiers",
+    "final_aerlune_specs": "Pending factory lab report"
+  }
+]

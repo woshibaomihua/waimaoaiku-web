@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://woshibaomihua.github.io/aerlune-airpurifier-site/sitemap.xml

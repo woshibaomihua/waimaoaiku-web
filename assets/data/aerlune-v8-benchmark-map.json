@@ -1,0 +1,58 @@
+{
+  "updated": "2026-05-21",
+  "disclaimer": "AERLUNE is a concept brand prototype. Product performance values shown as benchmark references are sourced from public third-party/editorial sources and must be replaced with verified factory lab reports before commercial claims are made.",
+  "products": [
+    {
+      "slug": "luna-mini",
+      "name": "LUNA Mini",
+      "positioning": "Compact bedroom and desk air purifier concept",
+      "bestFor": "Small bedrooms, desks, nurseries",
+      "image": "product-luna-mini.webp",
+      "reference": "Blueair Blue Pure 511i Max benchmark",
+      "benchmark_cadr": "152 CFM / 258 m³/h",
+      "benchmark_noise": "19–48 dB",
+      "benchmark_room": "22 m² recommended room size",
+      "filter": "Particle filter + activated carbon benchmark; final AERLUNE filter grade pending lab report",
+      "cta": "View LUNA Mini"
+    },
+    {
+      "slug": "s1",
+      "name": "AERLUNE S1",
+      "positioning": "Balanced smart purifier for everyday homes",
+      "bestFor": "Bedrooms, pet homes, family rooms",
+      "image": "product-s1.webp",
+      "reference": "Levoit Core 300S benchmark",
+      "benchmark_cadr": "141 CFM CADR rating",
+      "benchmark_noise": "48–58 dB benchmark range depending on source/test",
+      "benchmark_room": "219 sq ft benchmark coverage",
+      "filter": "HEPA + activated carbon benchmark; final AERLUNE filter grade pending lab report",
+      "cta": "View S1"
+    },
+    {
+      "slug": "pro-600",
+      "name": "AERLUNE Pro 600",
+      "positioning": "Large-room purifier concept for open spaces",
+      "bestFor": "Living rooms, large bedrooms, open-plan areas",
+      "image": "product-pro-600.webp",
+      "reference": "Coway Airmega Mighty2 benchmark",
+      "benchmark_cadr": "Smoke 240 / Dust 242 / Pollen 249 CFM benchmark",
+      "benchmark_noise": "Noise pending final selected benchmark / lab report",
+      "benchmark_room": "Large-space benchmark varies by air-change target",
+      "filter": "High-CADR HEPA + carbon benchmark; final AERLUNE results pending lab report",
+      "cta": "View Pro 600"
+    },
+    {
+      "slug": "h2",
+      "name": "AERLUNE H2",
+      "positioning": "Purifier + humidifier concept for dry indoor air",
+      "bestFor": "Dry climates, bedrooms, wellness-focused homes",
+      "image": "product-h2.webp",
+      "reference": "Dyson purifier-humidifier benchmark category",
+      "benchmark_cadr": "CADR not directly comparable across all purifier-humidifier products",
+      "benchmark_noise": "Pending final selected benchmark / lab report",
+      "benchmark_room": "Purifier-humidifier coverage varies by market claim and test method",
+      "filter": "HEPA H13 category benchmark + humidification; final AERLUNE results pending lab report",
+      "cta": "View H2"
+    }
+  ]
+}
