@@ -1,20 +1,17 @@
-# AERLUNE Air Purifier Independent Site
+# LYL Clean Air
 
-AERLUNE is a premium HEPA air purifier prototype website built for SEO, AEO, AI search and independent-store conversion.
-
-Canonical site: https://woshibaomihua.github.io/aerlune-airpurifier-site/
+LYL Clean Air is an OEM/ODM air purifier manufacturer for distributors, wholesalers, online sellers and private-label brands.
 
 Important pages:
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/index.html — brand homepage and product discovery
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/products.html — benchmark-mapped product collection
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/verified-data.html — data integrity and public benchmark disclosure
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/performance-testing.html — CADR, noise, filter and certification testing checklist
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/air-purifier-for-allergies.html — allergy air purifier guide
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/air-purifier-for-pets.html — pet-home air purifier guide
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/air-purifier-for-smoke.html — smoke and odor guide
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/bedroom-air-purifier.html — bedroom air purifier guide
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/large-room-air-purifier.html — large-room air purifier guide
-- https://woshibaomihua.github.io/aerlune-airpurifier-site/oem-air-purifier-private-label.html — OEM/private label air purifier page
+- https://www.lylcleanair.com/
+- https://www.lylcleanair.com/products.html
+- https://www.lylcleanair.com/factory.html
+- https://www.lylcleanair.com/blog.html
 
-Data policy:
-Public benchmark data is for market positioning only. Final AERLUNE commercial claims require verified factory lab reports, CADR test data, noise testing, certification documents and filter-grade evidence.
+Primary topics:
+OEM air purifier, ODM air purifier, HEPA air purifier manufacturer, private label air purifier, CADR, HEPA H13/H14, replacement filter supply, air purifier packaging, allergy air purifier, pet odor air purifier, smoke air purifier.
+
+Contact:
+Email: will@lyluv.com
+WhatsApp: +86 13928231487
+WhatsApp quick message: Hello LYL Clean Air, I am interested in your OEM/ODM air purifier products. Please send me product catalog, quotation details, MOQ, customization options and lead time.

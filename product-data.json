@@ -1,54 +1,182 @@
 [
   {
-    "id": "luna-mini",
-    "name": "LUNA Mini",
-    "type": "AERLUNE concept model",
-    "page": "product-luna-mini.html",
-    "image": "assets/images/product-luna-mini.png",
-    "benchmark_reference": "Blueair Blue Pure 511i Max",
-    "benchmark_cadr": "152 CFM / 258 m³/h",
-    "benchmark_noise": "19–48 dB",
-    "benchmark_room": "22 m² recommended room size (also widely marketed with larger one-pass coverage figures)",
-    "source_url": "https://www.idealhome.co.uk/buying-guide-reviews/best-air-purifiers-242211",
-    "final_aerlune_specs": "Pending factory lab report"
+    "name": "Compact Desktop HEPA Air Purifier",
+    "category": "Desktop / E-commerce",
+    "summary": "Small square purifier with top touch panel and lifestyle images, suitable for e-commerce listings and giftable product lines.",
+    "features": [
+      "Compact desktop size",
+      "Top touch control panel",
+      "Lifestyle-ready product images",
+      "Fast sample project option"
+    ],
+    "id": "air-purifier-04",
+    "image": "./assets/images/product-gallery/air-purifier-04-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-04-01.webp",
+      "./assets/images/product-gallery/air-purifier-04-02.webp",
+      "./assets/images/product-gallery/air-purifier-04-03.webp",
+      "./assets/images/product-gallery/air-purifier-04-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "compact-desktop-hepa-air-purifier",
+    "url": "./product-compact-desktop-hepa-air-purifier.html",
+    "metaTitle": "Compact Desktop HEPA Air Purifier OEM/ODM | LYL Clean Air",
+    "metaDescription": "Compact Desktop HEPA Air Purifier for OEM/ODM air purifier projects. View 4 product images, features, private-label options, filter program and request a factory quote.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Desktop / E-commerce",
+      "Compact Desktop HEPA Air Purifier"
+    ]
   },
   {
-    "id": "s1",
-    "name": "AERLUNE S1",
-    "type": "AERLUNE concept model",
-    "page": "product-s1.html",
-    "image": "assets/images/product-s1.png",
-    "benchmark_reference": "Levoit Core 300S Smart True HEPA Air Purifier",
-    "benchmark_cadr": "141 CFM CADR rating",
-    "benchmark_noise": "Peak tested decibel reported at 58 dB in pet-air-purifier testing; another small-air-purifier test reports 48 dB on high",
-    "benchmark_room": "219 sq ft coverage area",
-    "source_url": "https://www.thesprucepets.com/best-air-purifiers-for-pets-4175935",
-    "final_aerlune_specs": "Pending factory lab report"
+    "name": "Smart Tower HEPA Air Purifier",
+    "category": "Large Room / Living Room",
+    "summary": "Tall HEPA air purifier with digital display, suitable for distributors targeting living room and family-use product lines.",
+    "features": [
+      "Large-room product positioning",
+      "Digital display panel",
+      "HEPA + activated carbon filter option",
+      "Private label packaging available"
+    ],
+    "id": "air-purifier-01",
+    "image": "./assets/images/product-gallery/air-purifier-01-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-01-01.webp",
+      "./assets/images/product-gallery/air-purifier-01-02.webp",
+      "./assets/images/product-gallery/air-purifier-01-03.webp",
+      "./assets/images/product-gallery/air-purifier-01-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "smart-tower-hepa-air-purifier",
+    "url": "./product-smart-tower-hepa-air-purifier.html",
+    "metaTitle": "Smart Tower HEPA Air Purifier OEM/ODM | LYL Clean Air",
+    "metaDescription": "Smart Tower HEPA Air Purifier for OEM/ODM air purifier projects. View 4 product images, features, private-label options, filter program and request a factory quote.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Large Room / Living Room",
+      "Smart Tower HEPA Air Purifier"
+    ]
   },
   {
-    "id": "pro-600",
-    "name": "AERLUNE Pro 600",
-    "type": "AERLUNE concept model",
-    "page": "product-pro-600.html",
-    "image": "assets/images/product-pro-600.png",
-    "benchmark_reference": "Coway Airmega Mighty2",
-    "benchmark_cadr": "Smoke 240 CFM / Dust 242 CFM / Pollen 249 CFM",
-    "benchmark_noise": "35 dB sleep mode; about 65–70 dB turbo in WIRED testing",
-    "benchmark_room": "Up to 1,800 sq ft in one hour at 1 ACH; 900 sq ft in 30 minutes at 2 ACH",
-    "source_url": "https://www.wired.com/review/coway-airmega-mighty2",
-    "final_aerlune_specs": "Pending factory lab report"
+    "name": "Round Portable HEPA Air Purifier",
+    "category": "Bedroom / Small Room",
+    "summary": "Compact cylindrical air purifier for bedroom, office desk, apartment and online retail channels.",
+    "features": [
+      "Compact round design",
+      "Quiet operation for bedroom use",
+      "Multiple filter layer structure",
+      "Good entry-level private label model"
+    ],
+    "id": "air-purifier-02",
+    "image": "./assets/images/product-gallery/air-purifier-02-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-02-01.webp",
+      "./assets/images/product-gallery/air-purifier-02-02.webp",
+      "./assets/images/product-gallery/air-purifier-02-03.webp",
+      "./assets/images/product-gallery/air-purifier-02-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "round-portable-hepa-air-purifier",
+    "url": "./product-round-portable-hepa-air-purifier.html",
+    "metaTitle": "Round Portable HEPA Air Purifier OEM/ODM | LYL Clean Air",
+    "metaDescription": "Round Portable HEPA Air Purifier for OEM/ODM air purifier projects. View 4 product images, features, private-label options, filter program and request a factory quote.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Bedroom / Small Room",
+      "Round Portable HEPA Air Purifier"
+    ]
   },
   {
-    "id": "h2",
-    "name": "AERLUNE H2",
-    "type": "AERLUNE concept model",
-    "page": "product-h2.html",
-    "image": "assets/images/product-h2.png",
-    "benchmark_reference": "Dyson Purifier Humidify+Cool Formaldehyde PH04",
-    "benchmark_cadr": "Dyson models often do not use CADR as the primary rating in buyer guides; CADR not available in selected source",
-    "benchmark_noise": "Highest speed measured at 57.3 dB average in SELF review of Pure Humidify + Cool",
-    "benchmark_room": "41 m³ coverage cited in humidifier guide",
-    "source_url": "https://www.architecturaldigest.com/story/the-best-humidifiers",
-    "final_aerlune_specs": "Pending factory lab report"
+    "name": "Square Bedroom Air Purifier",
+    "category": "Home / Office",
+    "summary": "Square body air purifier with front display and clean modern appearance for home and office channels.",
+    "features": [
+      "Square modern appearance",
+      "Front air quality display",
+      "Suitable for home and office",
+      "OEM color and logo support"
+    ],
+    "id": "air-purifier-03",
+    "image": "./assets/images/product-gallery/air-purifier-03-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-03-01.webp",
+      "./assets/images/product-gallery/air-purifier-03-02.webp",
+      "./assets/images/product-gallery/air-purifier-03-03.webp",
+      "./assets/images/product-gallery/air-purifier-03-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "square-bedroom-air-purifier",
+    "url": "./product-square-bedroom-air-purifier.html",
+    "metaTitle": "Square Bedroom Air Purifier OEM/ODM | LYL Clean Air",
+    "metaDescription": "Square Bedroom Air Purifier for OEM/ODM air purifier projects. View 4 product images, features, private-label options, filter program and request a factory quote.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Home / Office",
+      "Square Bedroom Air Purifier"
+    ]
+  },
+  {
+    "name": "Air Purifier Humidifier Combo",
+    "category": "Humidifying / Multi-Function",
+    "summary": "Air purifier model with humidifying-style appearance and visible water-level design for differentiated product line planning.",
+    "features": [
+      "Purification + humidifying concept",
+      "Water-level visual design",
+      "Home comfort positioning",
+      "Custom function discussion available"
+    ],
+    "id": "air-purifier-05",
+    "image": "./assets/images/product-gallery/air-purifier-05-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-05-01.webp",
+      "./assets/images/product-gallery/air-purifier-05-02.webp",
+      "./assets/images/product-gallery/air-purifier-05-03.webp",
+      "./assets/images/product-gallery/air-purifier-05-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "air-purifier-humidifier-combo",
+    "url": "./product-air-purifier-humidifier-combo.html",
+    "metaTitle": "Air Purifier Humidifier Combo OEM/ODM | LYL Clean Air",
+    "metaDescription": "Air Purifier Humidifier Combo for OEM/ODM air purifier projects. View 4 product images, features, private-label options, filter program and request a factory quote.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Humidifying / Multi-Function",
+      "Air Purifier Humidifier Combo"
+    ]
+  },
+  {
+    "name": "Cylindrical HEPA Air Purifier",
+    "category": "Bedroom / Filter Program",
+    "summary": "Cylindrical HEPA model with clear filter structure visuals, suitable for brands that want to build replacement filter repeat orders.",
+    "features": [
+      "360\u00b0 cylindrical airflow concept",
+      "Clear filter structure visuals",
+      "Replacement filter program support",
+      "Good for bedroom and family scenarios"
+    ],
+    "id": "air-purifier-06",
+    "image": "./assets/images/product-gallery/air-purifier-06-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-06-01.webp",
+      "./assets/images/product-gallery/air-purifier-06-02.webp",
+      "./assets/images/product-gallery/air-purifier-06-03.webp",
+      "./assets/images/product-gallery/air-purifier-06-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "cylindrical-hepa-air-purifier",
+    "url": "./product-cylindrical-hepa-air-purifier.html",
+    "metaTitle": "Cylindrical HEPA Air Purifier OEM/ODM | LYL Clean Air",
+    "metaDescription": "Cylindrical HEPA Air Purifier for OEM/ODM air purifier projects. View 4 product images, features, private-label options, filter program and request a factory quote.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Bedroom / Filter Program",
+      "Cylindrical HEPA Air Purifier"
+    ]
   }
 ]

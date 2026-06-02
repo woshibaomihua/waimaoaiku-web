@@ -1,0 +1,254 @@
+{
+  "pages": 18,
+  "missing_title": [],
+  "missing_description": [],
+  "missing_canonical": [],
+  "missing_h1": [],
+  "noindex_pages": [
+    "thank-you.html"
+  ],
+  "missing_alt": [],
+  "broken_internal_refs": [],
+  "structured_data_pages": [
+    "index.html",
+    "products.html",
+    "product-smart-tower-hepa-air-purifier.html",
+    "product-round-portable-hepa-air-purifier.html",
+    "product-square-bedroom-air-purifier.html",
+    "product-compact-desktop-hepa-air-purifier.html",
+    "product-air-purifier-humidifier-combo.html",
+    "product-cylindrical-hepa-air-purifier.html",
+    "solution-allergy-air-purifier.html",
+    "solution-pet-smoke-air-purifier.html",
+    "blog-oem-air-purifier-manufacturer.html",
+    "blog-hepa-h13-vs-h14.html",
+    "blog-cadr-room-size.html",
+    "blog-private-label-packaging-checklist.html",
+    "factory.html",
+    "oem-odm.html"
+  ],
+  "total_site_size_kb": 23135.4,
+  "largest_assets": [
+    [
+      "assets/images/whatsapp-floating.png",
+      2280.9
+    ],
+    [
+      "assets/images/allergy-scene.png",
+      2164.8
+    ],
+    [
+      "assets/images/company-direct-sourcing.png",
+      1882.8
+    ],
+    [
+      "assets/images/dust-scene.png",
+      1682.1
+    ],
+    [
+      "assets/images/banner-reference.png",
+      1649.9
+    ],
+    [
+      "assets/images/company-why-choose-us.png",
+      1590.1
+    ],
+    [
+      "assets/images/company-factory-aerial-full.png",
+      1488.7
+    ],
+    [
+      "assets/images/company-hospital-project-cases-v2.png",
+      1474.1
+    ],
+    [
+      "assets/images/company-factory-aerial-clean.png",
+      1145.2
+    ],
+    [
+      "assets/images/company-awards-recognition.png",
+      650.1
+    ],
+    [
+      "assets/images/company-product-certifications.png",
+      639.3
+    ],
+    [
+      "assets/images/product-lineup.png",
+      624.6
+    ],
+    [
+      "assets/images/company-patents-certificates.png",
+      589.2
+    ],
+    [
+      "assets/images/company-hospital-project-cases.png",
+      530.5
+    ],
+    [
+      "assets/images/logo-official.png",
+      404.9
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-04-02.webp",
+      211.6
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-05-02.webp",
+      195.6
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-02-02.webp",
+      162.7
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-06-02.webp",
+      154.7
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-03-02.webp",
+      149.8
+    ]
+  ],
+  "total_site_size_kb_after_cleanup": 22689.6,
+  "deleted_unused_assets_count": 7,
+  "deleted_unused_assets_kb": 448.1,
+  "largest_assets_after_cleanup": [
+    [
+      "assets/images/whatsapp-floating.png",
+      2280.9
+    ],
+    [
+      "assets/images/allergy-scene.png",
+      2164.8
+    ],
+    [
+      "assets/images/company-direct-sourcing.png",
+      1882.8
+    ],
+    [
+      "assets/images/dust-scene.png",
+      1682.1
+    ],
+    [
+      "assets/images/banner-reference.png",
+      1649.9
+    ],
+    [
+      "assets/images/company-why-choose-us.png",
+      1590.1
+    ],
+    [
+      "assets/images/company-factory-aerial-full.png",
+      1488.7
+    ],
+    [
+      "assets/images/company-hospital-project-cases-v2.png",
+      1474.1
+    ],
+    [
+      "assets/images/company-factory-aerial-clean.png",
+      1145.2
+    ],
+    [
+      "assets/images/company-awards-recognition.png",
+      650.1
+    ],
+    [
+      "assets/images/company-product-certifications.png",
+      639.3
+    ],
+    [
+      "assets/images/product-lineup.png",
+      624.6
+    ],
+    [
+      "assets/images/company-patents-certificates.png",
+      589.2
+    ],
+    [
+      "assets/images/company-hospital-project-cases.png",
+      530.5
+    ],
+    [
+      "assets/images/logo-official.png",
+      404.9
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-04-02.webp",
+      211.6
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-05-02.webp",
+      195.6
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-02-02.webp",
+      162.7
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-06-02.webp",
+      154.7
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-03-02.webp",
+      149.8
+    ]
+  ],
+  "final_total_deploy_size_kb": 3896.1,
+  "final_deleted_unused_assets_count": 14,
+  "final_deleted_unused_assets_kb": 18392.3,
+  "final_missing_refs": [],
+  "final_largest_assets": [
+    [
+      "assets/images/product-gallery/air-purifier-04-02.webp",
+      211.6
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-05-02.webp",
+      195.6
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-02-02.webp",
+      162.7
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-06-02.webp",
+      154.7
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-03-02.webp",
+      149.8
+    ],
+    [
+      "assets/images/company-factory-aerial-full.webp",
+      145.2
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-04-03.webp",
+      136.1
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-06-03.webp",
+      130.0
+    ],
+    [
+      "assets/images/allergy-scene.webp",
+      124.5
+    ],
+    [
+      "assets/images/product-gallery/air-purifier-04-04.webp",
+      117.6
+    ]
+  ],
+  "logo_fix": {
+    "status": "fixed",
+    "restored_from": "/mnt/data/LYL_CleanAir_B2B_Site_v15/assets/images/logo-official.png",
+    "active_logo_file": "assets/images/logo-official.png",
+    "logo_size": [
+      2048,
+      682
+    ],
+    "missing_refs_after_logo_fix": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "version": "v18_Mobile_Checked",
+  "fixes": [
+    "Mobile floating Get Free Quote hidden to prevent content overlap",
+    "WhatsApp compacted on mobile",
+    "Tap targets set >=44px for buttons",
+    "Global overflow-x hidden as safety guard",
+    "Logo max width adjusted for narrow phones"
+  ],
+  "pages": 18,
+  "checks": {
+    "has_mobile_breakpoint_640": true,
+    "floating_quote_hidden_mobile": true,
+    "overflow_x_hidden": true,
+    "missing_refs": [],
+    "missing_alt_count": 0,
+    "missing_title": [],
+    "missing_description": [],
+    "missing_canonical": [],
+    "missing_h1": [],
+    "html_pages": [
+      "index.html",
+      "products.html",
+      "blog.html",
+      "product-smart-tower-hepa-air-purifier.html",
+      "product-round-portable-hepa-air-purifier.html",
+      "product-square-bedroom-air-purifier.html",
+      "product-compact-desktop-hepa-air-purifier.html",
+      "product-air-purifier-humidifier-combo.html",
+      "product-cylindrical-hepa-air-purifier.html",
+      "solution-allergy-air-purifier.html",
+      "solution-pet-smoke-air-purifier.html",
+      "blog-oem-air-purifier-manufacturer.html",
+      "blog-hepa-h13-vs-h14.html",
+      "blog-cadr-room-size.html",
+      "blog-private-label-packaging-checklist.html",
+      "thank-you.html",
+      "factory.html",
+      "oem-odm.html"
+    ],
+    "total_site_size_kb": 4245.9,
+    "largest_files": [
+      [
+        "assets/images/logo-official.png",
+        404.9
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-04-02.webp",
+        211.6
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-05-02.webp",
+        195.6
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-02-02.webp",
+        162.7
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-06-02.webp",
+        154.7
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-03-02.webp",
+        149.8
+      ],
+      [
+        "assets/images/company-factory-aerial-full.webp",
+        145.2
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-04-03.webp",
+        136.1
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-06-03.webp",
+        130.0
+      ],
+      [
+        "assets/images/allergy-scene.webp",
+        124.5
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-04-04.webp",
+        117.6
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-04-01.webp",
+        117.6
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-05-03.webp",
+        117.1
+      ],
+      [
+        "assets/images/product-gallery/air-purifier-02-03.webp",
+        115.0
+      ],
+      [
+        "assets/images/company-hospital-project-cases-v2.webp",
+        110.2
+      ]
+    ]
+  },
+  "issues": []
+}
