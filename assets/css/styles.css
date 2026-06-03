@@ -931,5 +931,5 @@ img{max-width:100%;display:block}
   .wa-text small{display:none;}
   .floating-wa{padding-right:10px;}
 }
-html, body{overflow-x:hidden;}
+body{overflow-x:clip;}
 img, video, canvas, svg{max-width:100%;}
