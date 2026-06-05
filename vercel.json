@@ -1,4 +1,21 @@
 {
+  "redirects": [
+    {
+      "source": "/returns-policy.html",
+      "destination": "/faq.html",
+      "permanent": true
+    },
+    {
+      "source": "/products/mobile-commercial-air-sterilizer.html",
+      "destination": "/products.html",
+      "permanent": true
+    },
+    {
+      "source": "/air-purifier-for-smoke.html",
+      "destination": "/solution-pet-smoke-air-purifier.html",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/assets/(.*)",
