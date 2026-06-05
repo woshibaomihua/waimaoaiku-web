@@ -200,8 +200,7 @@ img{max-width:100%;display:block}
 
 
 .company-showcase{padding:28px 0 64px;background:var(--soft)}
-.company-card-image{border-radius:34px;overflow:hidden;border:1px solid var(--line);box-shadow:var(--shadow);background:#fff}
-.company-card-image img{width:100%;height:auto;display:block}
+.company-card-image{display:flex;flex-direction:column;gap:12px}
 
 .floating-wa{min-width:208px;padding:8px 12px 8px 8px;gap:10px;border-radius:999px}
 .wa-icon-wrap{width:50px;height:50px}
@@ -215,8 +214,7 @@ img{max-width:100%;display:block}
 .section-cta{margin-top:34px}
 .demand-grid-two{grid-template-columns:1fr 1fr}
 .company-showcase{padding:28px 0 64px;background:var(--soft)}
-.company-card-image{border-radius:34px;overflow:hidden;border:1px solid var(--line);box-shadow:var(--shadow);background:#fff}
-.company-card-image img{width:100%;height:auto;display:block}
+.company-card-image{display:flex;flex-direction:column;gap:12px}
 .seo-content{background:#fff}
 .seo-list{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .seo-list div{border:1px solid var(--line);border-radius:20px;padding:22px;background:#f8fbff}
@@ -355,7 +353,7 @@ img{max-width:100%;display:block}
 .testimonial-card em{display:inline-block;margin-top:18px;border-radius:999px;background:var(--soft);padding:6px 10px;font-size:12px;font-style:normal;color:var(--blue)}
 .quote-form input[type=file]{padding:10px;background:#fff}
 .quote-form input[type=file]::file-selector-button{border:0;background:#eaf4ff;color:var(--blue);font-weight:800;border-radius:10px;padding:9px 12px;margin-right:12px;cursor:pointer}
-.quote-form label:nth-child(9),.quote-form label:nth-child(10){grid-column:1/-1}
+
 @media(max-width:1100px){.testimonial-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:640px){.testimonial-grid{grid-template-columns:1fr}.testimonial-card{min-height:280px}.main-nav a[href="./index.html#contact"]:not(.nav-cta){display:none}}
 
@@ -793,11 +791,15 @@ img{max-width:100%;display:block}
 
 /* v15: WhatsApp purified-air motion + updated company/factory visual handling */
 .floating-wa{
+  position:fixed;left:18px;bottom:18px;z-index:80;
+  display:flex;align-items:center;gap:12px;
+  background:rgba(255,255,255,.94);border:1px solid #cfe4f2;
+  box-shadow:0 18px 34px rgba(8,32,74,.14), 0 0 0 1px rgba(255,255,255,.8) inset;
+  border-radius:999px;padding:10px 14px 10px 10px;
+  min-width:248px;transition:.2s ease;
   overflow:visible;
   isolation:isolate;
   backdrop-filter: blur(10px);
-  border-color:#cfe4f2;
-  box-shadow:0 18px 34px rgba(8,32,74,.14), 0 0 0 1px rgba(255,255,255,.8) inset;
 }
 .floating-wa::before,
 .floating-wa::after{
@@ -827,31 +829,16 @@ img{max-width:100%;display:block}
 }
 .wa-icon-wrap{
   position:relative;
+  width:56px;height:56px;border-radius:50%;
+  background:linear-gradient(135deg,#e9fff4,#d8fff0);
+  display:flex;align-items:center;justify-content:center;
+  overflow:hidden;flex:0 0 auto;
   box-shadow:0 0 0 6px rgba(109,237,195,.14), 0 10px 20px rgba(34,163,116,.16);
 }
-.wa-icon-wrap::before,
-.wa-icon-wrap::after{
-  content:"";
-  position:absolute;
-  border-radius:999px;
-  pointer-events:none;
-}
-.wa-icon-wrap::before{
-  inset:-7px;
-  border:1px solid rgba(100,220,179,.45);
-  animation:waRing 2.8s ease-out infinite;
-}
-.wa-icon-wrap::after{
-  width:9px;
-  height:9px;
-  right:-3px;
-  top:8px;
-  background:radial-gradient(circle, rgba(255,255,255,.95) 0%, rgba(138,247,219,.95) 45%, rgba(138,247,219,0) 76%);
-  box-shadow:-8px 14px 0 0 rgba(131,241,221,.55), 5px 25px 0 0 rgba(104,207,255,.35), 18px 10px 0 0 rgba(109,238,187,.28);
-  filter:blur(.2px);
-  animation:waSpark 4.2s linear infinite;
-}
-.wa-text strong{letter-spacing:.01em}
+.wa-icon-wrap img{width:44px;height:44px;object-fit:contain}
+.wa-text{display:flex;flex-direction:column;line-height:1.25}
+.wa-text strong{font-size:16px;color:#093765;letter-spacing:.01em}
+.wa-text small{font-size:12px;color:#607489}
 .floating-wa:hover{
   transform:translateY(-4px) scale(1.01);
   box-shadow:0 22px 40px rgba(8,32,74,.17), 0 0 0 1px rgba(255,255,255,.85) inset;
@@ -933,3 +920,23 @@ img{max-width:100%;display:block}
 }
 body{overflow-x:clip;}
 img, video, canvas, svg{max-width:100%;}
+
+/* Mobile Audit Overrides */
+@media (max-width: 1024px) {
+  .brand img{max-width:300px}
+  .hero-inner{padding:60px 0}
+}
+@media (max-width: 768px) {
+  .brand img{max-width:260px}
+  .nav-wrap{height:80px}
+  .hero-copy h1{font-size:42px}
+}
+@media (max-width: 430px) {
+  .brand img{max-width:220px}
+  .hero-copy h1{font-size:36px}
+  .floating-wa{bottom:15px;left:15px}
+}
+@media (max-width: 390px) {
+  .brand img{max-width:200px}
+  .wa-text strong{font-size:13px}
+}

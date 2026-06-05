@@ -43,10 +43,18 @@ async function renderProducts(){
   if(!grid) return;
   try{
     const res=await fetch('./product-data.json');
+    if(!res.ok) throw new Error('Fetch failed');
     const data=await res.json();
     grid.innerHTML=data.map(p=>`<article class="product-card"><div class="pic">${galleryMarkup(p.images || [p.image], p.name)}</div><span class="tag">${p.category}</span><h3>${p.name}</h3><p class="card-summary">${p.summary||''}</p><ul>${p.features.map(f=>`<li>${f}</li>`).join('')}</ul><div class="card-actions"><a class="btn btn-light" href="${p.url}">View Details</a><a class="btn btn-primary" href="${WHATSAPP_URL}" target="_blank" rel="noopener">Get Quote</a></div></article>`).join('');
     initGalleries(grid);
-  }catch(e){grid.innerHTML='<p>Product data could not be loaded. Please check product-data.json.</p>'}
+  }catch(e){
+    console.error('Product data load error:', e);
+    grid.innerHTML=`<div class="error-fallback" style="grid-column:1/-1;text-align:center;padding:40px;background:#f8fbff;border-radius:22px;border:1px solid var(--line)">
+      <p style="color:var(--navy);font-weight:700;margin-bottom:10px">Looking for a specific air purifier model?</p>
+      <p style="color:var(--muted);margin-bottom:20px">Our product catalog is being updated. Please contact us via WhatsApp for a full PDF catalog and wholesale price list.</p>
+      <a class="btn btn-primary" href="${WHATSAPP_URL}" target="_blank">Request Catalog via WhatsApp</a>
+    </div>`;
+  }
 }
 
 renderProducts();
