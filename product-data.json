@@ -178,5 +178,65 @@
       "Bedroom / Filter Program",
       "Cylindrical HEPA Air Purifier"
     ]
+  },
+  {
+    "name": "Compact Cylinder HEPA Air Purifier",
+    "category": "Bedroom / Family / Pet Area",
+    "summary": "Transparent-body cylindrical design with 5-speed airflow, child lock, sleep mode, ambient light and optional WiFi. H13 HEPA + activated carbon 3-stage filtration, 360° bottom intake.",
+    "features": [
+      "5-Speed Airflow — Level 1 (Quiet Night) to Level 5 (Strong Airflow)",
+      "Child Lock — Touch control protection for family safety",
+      "Optional WiFi — Smart home OEM SKU available",
+      "Transparent body for retail shelf differentiation"
+    ],
+    "id": "air-purifier-07",
+    "image": "./assets/images/product-gallery/air-purifier-07-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-07-01.webp",
+      "./assets/images/product-gallery/air-purifier-07-02.webp",
+      "./assets/images/product-gallery/air-purifier-07-03.webp",
+      "./assets/images/product-gallery/air-purifier-07-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "compact-cylinder-hepa-air-purifier",
+    "url": "./product-compact-cylinder-hepa-air-purifier.html",
+    "metaTitle": "Compact Cylinder HEPA Air Purifier OEM/ODM | LYL Clean Air",
+    "metaDescription": "Compact Cylinder HEPA Air Purifier OEM/ODM with 5-speed airflow, child lock, sleep mode, ambient light and optional WiFi. H13 HEPA 3-stage filtration, 360° bottom intake.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "Bedroom / Family / Pet Area",
+      "Compact Cylinder HEPA Air Purifier"
+    ]
+  },
+  {
+    "name": "3-in-1 Air Purifier Humidifier Aroma Diffuser",
+    "category": "3-in-1 / Smart / Humidifying",
+    "summary": "Compact square-body 3-in-1 unit combining air purification, humidification and aroma diffusion. Smart PM2.5 real-time display, auto mode, top-fill water tank, ambient green light and WiFi.",
+    "features": [
+      "Smart PM2.5 Display — Real-time air quality monitoring with auto mode",
+      "Top Fill Water Tank — Easy refill with visible MAX line",
+      "Aroma Diffusion — Add essential oil via top-fill port",
+      "Ambient Green Light — Signature visual identity for lifestyle brands"
+    ],
+    "id": "air-purifier-08",
+    "image": "./assets/images/product-gallery/air-purifier-08-01.webp",
+    "images": [
+      "./assets/images/product-gallery/air-purifier-08-01.webp",
+      "./assets/images/product-gallery/air-purifier-08-02.webp",
+      "./assets/images/product-gallery/air-purifier-08-03.webp",
+      "./assets/images/product-gallery/air-purifier-08-04.webp"
+    ],
+    "cta": "Request Quote",
+    "slug": "3in1-air-purifier-humidifier-diffuser",
+    "url": "./product-3in1-air-purifier-humidifier-diffuser.html",
+    "metaTitle": "3-in-1 Air Purifier Humidifier Aroma Diffuser OEM/ODM | LYL Clean Air",
+    "metaDescription": "3-in-1 Air Purifier, Humidifier and Aroma Diffuser OEM/ODM. Smart PM2.5 display, auto mode, top-fill water tank, WiFi, 1H/2H/3H timer, ambient green light, H13 HEPA filtration.",
+    "keywords": [
+      "OEM air purifier",
+      "private label air purifier",
+      "3-in-1 / Smart / Humidifying",
+      "3-in-1 Air Purifier Humidifier Aroma Diffuser"
+    ]
   }
 ]
