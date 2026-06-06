@@ -4,3 +4,17 @@
 .quote-promise ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:.5rem}
 .quote-promise ul li{font-size:.9rem;line-height:1.4;padding-left:1.25rem;position:relative;opacity:.9}
 .quote-promise ul li::before{content:"✓";position:absolute;left:0;color:#4ade80;font-weight:700}
+
+/* Product page inquiry form */
+.product-inquiry-section{background:var(--bg-alt,#f0f4f8)}
+.product-inquiry-wrap{display:grid;grid-template-columns:1fr 2fr;gap:3rem;align-items:start}
+.product-inquiry-copy h2{font-size:1.6rem;margin:.5rem 0 1rem}
+.product-inquiry-copy p{color:var(--text-muted,#555);line-height:1.6}
+.product-inquiry-form{background:#fff;border-radius:16px;padding:2rem;box-shadow:0 2px 16px rgba(0,0,0,.07)}
+.product-inquiry-form .form-row-2{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1rem}
+.product-inquiry-form label{display:flex;flex-direction:column;gap:.35rem;font-size:.85rem;font-weight:600;color:#333}
+.product-inquiry-form input,.product-inquiry-form select,.product-inquiry-form textarea{border:1px solid #d1d5db;border-radius:8px;padding:.6rem .85rem;font-size:.9rem;width:100%;box-sizing:border-box;transition:border-color .2s}
+.product-inquiry-form input:focus,.product-inquiry-form select:focus,.product-inquiry-form textarea:focus{outline:none;border-color:#1d4ed8}
+.product-inquiry-form textarea{resize:vertical;margin-bottom:1rem}
+.product-inquiry-form .btn.full{width:100%;margin-top:.5rem}
+@media(max-width:768px){.product-inquiry-wrap{grid-template-columns:1fr}.product-inquiry-form .form-row-2{grid-template-columns:1fr}}
