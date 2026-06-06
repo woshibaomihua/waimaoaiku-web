@@ -1,18 +1,46 @@
 # LYL Clean Air
 
-LYL Clean Air is an OEM/ODM air purifier manufacturer for distributors, wholesalers, online sellers and private-label brands.
+## Company Entity
+Guangdong LiangYueLiang Optoelectronics Technology Co., Ltd. operates LYL Clean Air, an OEM/ODM air purifier manufacturer for global B2B buyers. The site helps distributors, wholesalers, importers, e-commerce sellers, Amazon sellers and private-label brands source HEPA air purifier product lines, replacement filters and customization support.
 
-Important pages:
-- https://www.lylcleanair.com/
-- https://www.lylcleanair.com/products.html
-- https://www.lylcleanair.com/factory.html
-- https://www.lylcleanair.com/blog.html
-- https://www.lylcleanair.com/faq.html
+## Product Categories
+- HEPA air purifiers for bedroom, small room, living room, office and family use.
+- Desktop and portable air purifiers for online retail and entry-level private-label launches.
+- Cylindrical and tower air purifiers with H13/H14 HEPA and activated carbon filter options.
+- Air purifier humidifier combo and 3-in-1 air purifier humidifier aroma diffuser concepts.
+- Pet odor, smoke, dust, allergy and large-room air purifier positioning.
+- Replacement filter programs for repeat purchase and after-sales support.
 
-Primary topics:
-OEM air purifier, ODM air purifier, HEPA air purifier manufacturer, private label air purifier, CADR, HEPA H13/H14, replacement filter supply, air purifier packaging, allergy air purifier, pet odor air purifier, smoke air purifier.
+## OEM/ODM Services
+LYL Clean Air supports model selection, logo customization, product color discussion, control-panel label planning, private-label packaging, user manual and carton details, plug standard discussion, sample confirmation, quote packs, bulk-order preparation and long-term replacement filter supply. Buyers should share target country, sales channel, estimated quantity, certification needs, plug type, packaging requirements and preferred product function.
 
-Contact:
-Email: will@lyluv.com
-WhatsApp: +86 13928231487
-WhatsApp quick message: Hello LYL Clean Air, I am interested in your OEM/ODM air purifier products. Please send me product catalog, quotation details, MOQ, customization options and lead time.
+## Certification Support
+Certification and compliance support is discussed by model and target market. Unified certification wording on this site: CE / FCC / RoHS / CARB / ETL / ISO9001. The website does not publish or invent certificate numbers. Buyers should request current model-specific documents before sampling or bulk order.
+
+## Target Buyers
+Primary buyers include air purifier distributors, home appliance wholesalers, importers, Amazon FBA sellers, Shopify/DTC brands, private-label brands, retail sourcing managers and project buyers needing factory-direct OEM/ODM support.
+
+## Core URLs
+- Home: https://www.lylcleanair.com/
+- Products: https://www.lylcleanair.com/products.html
+- OEM/ODM: https://www.lylcleanair.com/oem-odm.html
+- Factory: https://www.lylcleanair.com/factory.html
+- Certifications: https://www.lylcleanair.com/certifications.html
+- Blog: https://www.lylcleanair.com/blog.html
+- FAQ: https://www.lylcleanair.com/faq.html
+- Contact: https://www.lylcleanair.com/contact.html
+- Allergy Solution: https://www.lylcleanair.com/solution-allergy-air-purifier.html
+- Pet, Smoke and Dust Solution: https://www.lylcleanair.com/solution-pet-smoke-air-purifier.html
+
+## Contact
+- Email: will@lyluv.com
+- WhatsApp: +86 13928231487
+- WhatsApp quick message: Hello LYL Clean Air, I am interested in your OEM/ODM air purifier products. Please send me product catalog, quotation details, MOQ, customization options and lead time.
+
+## FAQ Summary
+- LYL Clean Air supports private-label and OEM/ODM air purifier projects including logo, packaging, manual, carton and filter planning.
+- Buyers can request model recommendations by sending country, quantity, target channel, plug standard and certification needs.
+- Trial orders may be discussed depending on model and customization scope; bulk-order terms should be confirmed during quotation.
+- H13 HEPA is commonly used for consumer air purifier projects; H14 can be discussed for premium or specialized applications.
+- Replacement filters can be planned together with purifier orders to support after-sales service and repeat revenue.
+- Certification support should be confirmed by model and target market before production.
