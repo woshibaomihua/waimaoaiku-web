@@ -27,3 +27,32 @@
 
 /* Inquiry conversion updates */
 .product-cta-row{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:1.25rem}.product-cta-row .btn{display:inline-flex;align-items:center;justify-content:center}.pif-fieldset{border:1.5px solid #e2e8f0;border-radius:12px;padding:1rem;margin:0 0 1rem;background:#f8fafc}.pif-fieldset legend{padding:0 .4rem;font-size:.82rem;font-weight:800;color:#374151}.checkbox-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.65rem .9rem}.checkbox-grid label{display:flex;align-items:flex-start;gap:.45rem;font-size:.84rem;font-weight:600;color:#475569;line-height:1.35}.checkbox-grid input{width:auto!important;margin:.2rem 0 0;accent-color:#1d4ed8}.customize-options{background:linear-gradient(180deg,#fff 0%,#f5f9ff 100%)}.customize-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem}.customize-grid article{background:#fff;border:1px solid #dbeafe;border-radius:18px;padding:1.15rem;box-shadow:0 12px 28px rgba(13,97,182,.08)}.customize-grid strong{display:block;color:#0a2b57;font-size:1rem;margin-bottom:.35rem}.customize-grid span{display:block;color:#5d7086;font-size:.9rem;line-height:1.5}.product-faq{background:#fff}.product-faq-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;max-width:980px;margin:0 auto}.product-faq-grid details{border:1px solid #dbeafe;border-radius:16px;background:#f8fbff;padding:1rem 1.1rem;box-shadow:0 10px 24px rgba(8,32,74,.06)}.product-faq-grid summary{cursor:pointer;font-weight:800;color:#0a2b57}.product-faq-grid p{margin:.7rem 0 0;color:#5d7086;font-size:.92rem;line-height:1.6}.quote-form .pif-fieldset{grid-column:1/-1}.quote-form .checkbox-grid label{margin:0}.form-full{grid-column:1/-1}@media(max-width:900px){.customize-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.product-faq-grid{grid-template-columns:1fr}}@media(max-width:768px){.product-cta-row{flex-direction:column}.product-cta-row .btn{width:100%}.product-cta-row .btn[href="#product-inquiry"]{display:none}.checkbox-grid{grid-template-columns:1fr}.customize-grid{grid-template-columns:1fr}.product-inquiry-section{display:none!important}}
+
+
+/* Mobile Customize WhatsApp styles (Task 1) */
+@media(max-width:768px){
+  .customize-model-btn{display:none!important}
+  .mobile-customize-wa{display:inline-flex!important}
+}
+.mobile-customize-wa{display:none;align-items:center;gap:.5rem;background:linear-gradient(135deg,#1d4ed8,#3b82f6);color:#fff;font-weight:700;font-size:.95rem;padding:.75rem 1.5rem;border-radius:10px;text-decoration:none;transition:opacity .2s}
+.mobile-customize-wa:hover{opacity:.88}
+
+
+/* Hero outline button styles (Task 2) */
+.btn-outline-hero{display:inline-flex;align-items:center;padding:.7rem 1.6rem;border:2px solid rgba(255,255,255,.75);color:#fff;font-weight:600;font-size:.95rem;border-radius:10px;text-decoration:none;transition:all .2s;background:transparent}
+.btn-outline-hero:hover{background:rgba(255,255,255,.15);border-color:#fff}
+@media(max-width:768px){.btn-outline-hero{font-size:.85rem;padding:.6rem 1.2rem}}
+
+
+/* Certification Gallery styles (Task 3) */
+.cert-gallery-section{background:#f8fafc}
+.cert-card-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem}
+@media(max-width:768px){.cert-card-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:480px){.cert-card-grid{grid-template-columns:1fr}}
+.cert-card{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.06);transition:transform .2s,box-shadow .2s}
+.cert-card:hover{transform:translateY(-3px);box-shadow:0 6px 24px rgba(0,0,0,.1)}
+.cert-img-placeholder{background:#f1f5f9;padding:2rem 1rem 1rem;display:flex;flex-direction:column;align-items:center;gap:.5rem;color:#94a3b8;font-size:.75rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em;min-height:120px;justify-content:center}
+.cert-card-body{padding:1rem 1.25rem 1.25rem}
+.cert-card-body h3{font-size:.95rem;font-weight:700;color:#1e293b;margin:0 0 .4rem}
+.cert-card-body p{font-size:.82rem;color:#64748b;line-height:1.55;margin:0 0 .75rem}
+.cert-tag{display:inline-block;font-size:.72rem;font-weight:600;background:#eff6ff;color:#1d4ed8;padding:.25rem .6rem;border-radius:6px;letter-spacing:.03em}
