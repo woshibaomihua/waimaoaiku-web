@@ -56,3 +56,5 @@
 .cert-card-body h3{font-size:.95rem;font-weight:700;color:#1e293b;margin:0 0 .4rem}
 .cert-card-body p{font-size:.82rem;color:#64748b;line-height:1.55;margin:0 0 .75rem}
 .cert-tag{display:inline-block;font-size:.72rem;font-weight:600;background:#eff6ff;color:#1d4ed8;padding:.25rem .6rem;border-radius:6px;letter-spacing:.03em}
+
+.case-badge{display:inline-block;font-size:.72rem;font-weight:600;padding:.2rem .5rem;border-radius:5px;margin-left:.5rem;vertical-align:middle}.mockup-badge{background:#fef9c3;color:#854d0e;border:1px solid #fef08a}
