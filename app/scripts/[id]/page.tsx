@@ -38,9 +38,9 @@ export default function ScriptDetail({ params }: { params: { id: string } }) {
 
           <div className="flex flex-col items-center bg-gray-50 rounded-xl p-8 border-2 border-dashed border-gray-200">
             <h2 className="text-xl font-bold text-gray-800 mb-4">准备好自动化你的外贸流程了吗？</h2>
-            <BuyButton variantId={script.lemonSqueezyVariantId} />
+            <BuyButton url={script.creemUrl} />
             <p className="mt-4 text-xs text-gray-400 text-center">
-              支持微信/支付宝付款。支付成功后将立即解锁完整代码及下载链接。
+              支持支付宝/信用卡付款。支付成功后将通过邮件发送完整代码。
             </p>
           </div>
         </div>

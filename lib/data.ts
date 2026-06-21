@@ -7,6 +7,7 @@ export interface Script {
   previewCode: string;
   fullCode: string; // 支付后可见
   lemonSqueezyVariantId: string; // Lemon Squeezy 的产品 ID
+  creemUrl: string; // Creem 的支付链接
 }
 
 export const scripts: Script[] = [
@@ -18,7 +19,8 @@ export const scripts: Script[] = [
     category: "Browser Extension",
     previewCode: `// ==UserScript==\n// @name 阿里国际站 · 商品分层一键全量采集\n// @description 一个按钮全量采集，并内置分析工具\nconst STAGES = [\n  { code: 'NORMAL', label: '普通品' },\n  { code: 'POTENTIAL', label: '潜力优品' },\n  // ...\n];`,
     fullCode: `// 完整的采集与分析代码...\n(function () {\n  'use strict';\n  // 此处为您提供的 274 行完整代码...\n})();`,
-    lemonSqueezyVariantId: "1818341", // 已更新为真实 Variant ID
+    lemonSqueezyVariantId: "1818341",
+    creemUrl: "https://www.creem.io/test/payment/prod_Cf0b1Fg5YRxRQn8pPtPpV",
   },
   {
     id: "visitor-data-collector",
@@ -28,6 +30,7 @@ export const scripts: Script[] = [
     category: "Browser Extension",
     previewCode: `// ==UserScript==\n// @name 阿里巴巴国际站访客数据采集工具\n// @version 26.0\nconst CONFIG = {\n  TARGET_PAGE_SIZE: 100,\n  CONCURRENCY: 6,\n};`,
     fullCode: `// 完整的访客数据采集代码...\n(function () {\n  'use strict';\n  // 此处为您提供的 366 行完整代码...\n})();`,
-    lemonSqueezyVariantId: "1818343", // 已更新为真实 Variant ID
+    lemonSqueezyVariantId: "1818343",
+    creemUrl: "https://www.creem.io/test/payment/prod_4ZQ2ErdCKBWdHI1VDtqiok",
   }
 ];
